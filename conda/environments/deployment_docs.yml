@@ -7,6 +7,7 @@ dependencies:
   - myst-parser
   - nbsphinx
   - numpydoc
+  - pre-commit
   - pydata-sphinx-theme
   - python=3.9
   - sphinx
